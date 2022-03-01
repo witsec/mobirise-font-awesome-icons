@@ -1,7 +1,7 @@
 {
-    "name": "Font Awesome v2 (5.15.1)",
+    "name": "Font Awesome v2.1 (5.15.1)",
     "alias": "witsec-font-awesome-icons",
-    "version": 2,
+    "version": 2.1,
     "minAppVersion": "4",
     "plugins": ["font-awesome-brands", "font-awesome-regular", "font-awesome-solid"],
     "description": "Add the popular Font Awesome icons to your website. <a href='https://witsec.nl'>Learn more...</a>",
