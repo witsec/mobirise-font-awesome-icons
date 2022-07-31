@@ -1,10 +1,10 @@
 {
-    "name": "Font Awesome v3 (5.15.1)",
-    "alias": "witsec-font-awesome-icons",
-    "version": 3,
-    "minAppVersion": "4",
-    "plugins": ["font-awesome-brands", "font-awesome-regular", "font-awesome-solid"],
-    "description": "Add the popular Font Awesome icons to your website. <a href='https://witsec.nl'>Learn more...</a>",
-    "largeCover": "cover.jpg",
-    "logo" : "thumbnail.jpg"
+	"name": "Font Awesome v3 (5.15.1)",
+	"alias": "witsec-font-awesome-icons",
+	"version": 3,
+	"minAppVersion": "4",
+	"plugins": ["font-awesome-brands", "font-awesome-regular", "font-awesome-solid"],
+	"description": "Add the popular Font Awesome icons to your website. <a href='https://witsec.nl'>Learn more...</a>",
+	"largeCover": "cover.jpg",
+	"logo" : "thumbnail.jpg"
 }
