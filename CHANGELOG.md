@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## v3 (2022-07-31)
+
+- Fixed alignment issue by removing fa-fw as default class
+- This caused the icons to not be aligned properly in the 'icon overview' (when selecting an icon), so fixed that as well
+
 ## v2 (2020-10-18)
 
 - Fixed splash description
