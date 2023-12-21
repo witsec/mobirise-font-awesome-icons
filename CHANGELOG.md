@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## v4 (2023-12-21)
+
+- Updated Font Awesome to version 6.4.2
+
 ## v3 (2022-07-31)
 
 - Fixed alignment issue by removing fa-fw as default class
